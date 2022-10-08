@@ -1,0 +1,23 @@
+.pinker {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+.special {
+    font-size: 30px;
+}
+
+#num4 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+    font-family: sans-serif;
+}
+
+#num2 {
+    color: blue;
+    font-size: 36px;
+    font-family: sans-serif;
+
+}
